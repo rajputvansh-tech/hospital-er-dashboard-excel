@@ -28,4 +28,5 @@ Microsoft Excel, Pivot Tables, Slicers, Charts
 Download the .xlsx file and use the month/year slicers to explore the data.
 
 ## Author
-[VANSH RAJPUT] [https://www.linkedin.com/in/rajputvansh/]
+[VANSH RAJPUT] 
+[https://www.linkedin.com/in/rajputvansh/]
