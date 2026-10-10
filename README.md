@@ -1,6 +1,8 @@
 
 # 🏥 Hospital Emergency Room Dashboard (Excel)
 
+
+
 An interactive Excel dashboard that tracks ER performance by month and year.
 
 
@@ -23,9 +25,6 @@ An interactive Excel dashboard that tracks ER performance by month and year.
 ## Tools Used
 Microsoft Excel, Pivot Tables, Slicers, Charts
 
-
-## How to Use
-Download the .xlsx file and use the month/year slicers to explore the data.
 
 ## Author
 [VANSH RAJPUT]
